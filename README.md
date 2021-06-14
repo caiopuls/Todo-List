@@ -13,6 +13,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
+Caio Puls Garcia. Front End Dev.
+
 
 
 
