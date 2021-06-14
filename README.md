@@ -1,8 +1,6 @@
+# Image of the project
+
 ![Demo](https://github.com/caiogarciap/Todo-List/blob/main/Example.png)
-
-
-
-
 
 
 
